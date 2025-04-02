@@ -2,7 +2,7 @@
 import { Header } from "../../components/Header";
 import Card from "../../components/Card";
 import User from "../../components/User";
-import {Container,Title,TitleLigth,Text, Column} from './styles';
+import {Container,Title,TitleLigth, Column} from './styles';
 const Feed = () => {
    return(
    <>

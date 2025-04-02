@@ -25,9 +25,11 @@ export const InputText = styled.input`
 `;
 
 export const Erro = styled.p`
-  color: red;
-  font-size:16px;
-  
+  color: #ff0000;
+  font-size: 12px;
+  padding: 0;
 `;
 
-  
+export const ErrorContainer = styled.div`
+  margin: 5px 0;
+`;

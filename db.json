@@ -1,0 +1,16 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "name": "Leoanrdo Lucas",
+        "email": "leonardoarauj@gmail.com",
+        "password": "1234567"
+      },
+      {
+        "id": "2",
+        "name": "Amnada Cabral",
+        "email": "amandinha09@gmail.com",
+        "password": "123456"
+      }
+    ]
+  }
